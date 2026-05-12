@@ -63,12 +63,7 @@ Database integration using SQLite
 Static files handling (CSS, JS, Images)
 
 
-Django MVT architecture implementation
 
-
-
-Project Structure
-Woody/│├── manage.py├── db.sqlite3│├── Woody/│   ├── settings.py│   ├── urls.py│   ├── asgi.py│   └── wsgi.py│├── woody_app/│   ├── migrations/│   ├── static/│   ├── templates/│   ├── admin.py│   ├── apps.py│   ├── models.py│   ├── tests.py│   └── views.py
 
 Project Workflow
 
